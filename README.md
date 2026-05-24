@@ -1,6 +1,37 @@
 # PracWay — Sistema Integral de Gestión de Prácticas Profesionales (PPP)
 
-> Plataforma web full stack desarrollada para la gestión completa del Programa de Prácticas Pre Profesionales en (PPP) de la Universidad Peruana Unión (UPEU).
+> Plataforma web full stack desarrollada para la gestión completa del Programa de Prácticas Pre Profesionales (PPP) de la Universidad Peruana Unión (UPEU).
+
+---
+
+# Índice
+
+1. [Descripción General](#descripción-general)
+2. [Arquitectura General](#arquitectura-general)
+3. [Frontend](#frontend)
+   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Backend](#backend)
+   - [Tecnologías Utilizadas](#tecnologías-utilizadas-1)
+5. [Seguridad Implementada](#seguridad-implementada)
+6. [Roles del Sistema](#roles-del-sistema)
+7. [Características Destacadas](#características-destacadas)
+8. [Documentación y Evidencias del Proyecto](#documentación-y-evidencias-del-proyecto)
+   - [`EntregableOFFCompletoPPP.pdf`](#1-entregableoffcompletoppppdf)
+   - [`DIAGRAMA-BD-PPP.drawio`](#2-diagrama-bd-pppdrawio)
+   - [Diccionario de Datos y Documentación de Base de Datos](#3-diccionario-de-datos-y-documentación-de-base-de-datos)
+   - [Prototipos UI/UX — Figma](#4-prototipos-uiux--figma)
+   - [Videos Funcionales del Sistema](#5-videos-funcionales-del-sistema)
+   - [`Caso Redactado PPP.pdf`](#6-caso-redactado-ppppdf)
+   - [`PPT-ProyectoPPP.pdf`](#7-ppt-proyectoppppdf)
+9. [Habilidades Técnicas Demostradas](#habilidades-técnicas-demostradas)
+   - [Frontend](#frontend-1)
+   - [Backend](#backend-1)
+   - [Base de Datos](#base-de-datos)
+   - [Cloud & DevOps](#cloud--devops)
+10. [Equipo de Desarrollo](#equipo-de-desarrollo)
+11. [Nota Importante](#nota-importante)
+12. [Contacto](#contacto)
+13. [Estado del Proyecto](#estado-del-proyecto)
 
 ---
 
@@ -273,7 +304,6 @@ Incluye:
 | **Yesenia Ramirez Medina** | stefanyramirezmedina@gmail.com |
 | **Juan Sebastián Espiritu Orejon** | sebastiandefray413@gmail.com |
 | **Carlos Rafael Veli Capcha** | carlosveli777@gmail.com |
-
 
 ---
 
