@@ -1,6 +1,6 @@
 # PracWay — Sistema Integral de Gestión de Prácticas Profesionales (PPP)
 
-> Plataforma web full stack desarrollada para la gestión completa del Programa de Prácticas Profesionales en Cooperación (PPP) de la Universidad Peruana Unión (UPEU).
+> Plataforma web full stack desarrollada para la gestión completa del Programa de Prácticas Pre Profesionales en (PPP) de la Universidad Peruana Unión (UPEU).
 
 ---
 
@@ -274,15 +274,6 @@ Incluye:
 | **Juan Sebastián Espiritu Orejon** | sebastiandefray413@gmail.com |
 | **Carlos Rafael Veli Capcha** | carlosveli777@gmail.com |
 
----
-
-# Contexto Académico
-
-Proyecto universitario desarrollado para el curso de:
-- Prácticas Profesionales
-- Universidad Peruana Unión (UPEU)
-
-El sistema fue construido como una solución real orientada a mejorar el proceso de gestión académica y administrativa de prácticas profesionales.
 
 ---
 
@@ -306,7 +297,7 @@ Sin embargo, este repositorio contiene:
 ## Carlos Rafael Veli Capcha
 
 Estudiante de Ingeniería de Sistemas  
-Backend Developer | Full Stack Developer | Infraestructura & Redes
+Backend Developer | Full Stack Developer | Infrastructure & Networks
 
 Correo: carlosveli777@gmail.com
 
